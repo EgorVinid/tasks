@@ -1,5 +1,5 @@
 Чуть сложнее, флаг не лежит просто текстом
 флаг - STF{c0d3_r3v3r53_5ymb0lz}
 
-[elf файл](./REV/middle_rev)
+[elf файл](./middle_rev)
 
