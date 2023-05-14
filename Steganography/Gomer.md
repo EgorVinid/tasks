@@ -1,3 +1,3 @@
 Простой таск на steghide, пароль к картинке - donuts, сделаем подсказку на это
 
-Картинка - gomer.jpg
+[gomer.jpg](./gomer.jpg)
