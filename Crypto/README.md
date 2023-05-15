@@ -1,6 +1,6 @@
 [Таск на RSA](./RSA.md)
 
-[Таск на XOR](./XOR.md)
+[Таск на XOR](./xor.md)
 
 [Таск на Keyboard Shift](./keyboard.md)
 
