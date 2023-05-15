@@ -1,3 +1,10 @@
+Описание задания:
+
+Досмотрел Ходячих мертвецов, так ночью приснились зомби, которые о чём-то болтали. По памяти записал их "слова", интересно, о чём они говорили?
+
+Для админов:
+
+
 Таск на Zombie Translator
 
 Дано: arrraa ### uUURRRR gggrrR oOOooRrR ggRRr OoorR GGgRrRrr BBRAAIIIIIIIIINNNNSSS nuurg AaAAAHHH ara rrrRaa RAAa gGrRRrR sRrr GRRRrr Rrrrrr orRr GgRrrr sRrr oooORrRRRr oRrr gGggrrR arrraa raaa ssRR GrrrR araaa rraA RAA RRrrrRAAAAAAaaaaaaaaA!
