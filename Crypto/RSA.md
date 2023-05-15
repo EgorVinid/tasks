@@ -14,4 +14,4 @@ https://www.dcode.fr/rsa-cipher - например через этот каль�
 
 Флаг: STF{CrYpTo_L34rn3rs_Un1t3_w1th_RSA}
 
-[файл с данными][./numbers.txt]
+[файл с данными](./numbers.txt)
