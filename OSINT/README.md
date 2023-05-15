@@ -1,3 +1,3 @@
-[Таск на girhub](./git.md)
+[Таск на github](./git.md)
 
 [Таск на GeoINT](./geo.md)
