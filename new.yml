@@ -60,3 +60,12 @@ forensics:
 
     flag: STF{46000_VISA3816}
     <<: *defaults
+    
+crypto:
+  - title: Нулёвый
+    description: |
+      Когда Чак Норрис режет лук, лук плачет.
+      
+      [файл](https://mega.nz/file/zQQUlQpT#8T0MHH5670sqpHqfiyVymsBLe_qUYGLoq3xqzuqqe9k)
+    flag: STF{Chvck_N0rris_C0d3_Br34k3rz}
+    <<: *defaults
